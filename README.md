@@ -10,7 +10,7 @@ Please have a team member add GitHub ID as a collaborator to this repository.  Y
 
 ## Step 1 - The Anatomy of Prompts
 
-The goal is not just to generate useful visualizations and designs, but to generate code and rules that can generate many designs for a particular purpose.  . You can prompt however you want but this approach generated stunning results. You can see examples at the Computational Art Lab IG [https://www.instagram.com/artlabneu/](https://www.instagram.com/artlabneu/) and the Skunks.ai IG [https://www.instagram.com/skunks.ai/](https://www.instagram.com/skunks.ai/).  
+The goal is not just to generate useful visualizations and designs, but to generate code and rules that can generate many designs for a particular purpose. You can prompt however you want but this approach generated stunning results. You can see examples at the Computational Art Lab IG [https://www.instagram.com/artlabneu/](https://www.instagram.com/artlabneu/) and the Skunks.ai IG [https://www.instagram.com/skunks.ai/](https://www.instagram.com/skunks.ai/).  
 
 
 Think of a prompt as a sequence of tags and categorize all the tags into four meta-categories:
