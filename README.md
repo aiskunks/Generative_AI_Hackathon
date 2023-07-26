@@ -101,7 +101,7 @@ Think of a prompt as a sequence of tags and categorize all the tags into four me
 
 Refer to the image below for an illustration of the prompt structure:
 
-<img src="https://raw.githubusercontent.com/aiskunks/zebonastic/main/IMG/Anatomy_of_Prompts_Zebonastic.png">
+<img src="https://raw.githubusercontent.com/aiskunks/Generative_AI_Hackathon/main/Art/Anatomy_of_Prompts_GAI.png">
 
 
 ## Step 2 - Generating Tag List Set
