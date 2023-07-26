@@ -1,2 +1,2 @@
-# Generative_AI_Hackathon
+# Generative AI Hackathon  
 Generative AI Hackathon
