@@ -4,15 +4,14 @@ Generative AI Hackathon
 
 <img src="https://raw.githubusercontent.com/aiskunks/Generative_AI_Hackathon/main/Art/GAI_Poster.png" alt="Generative AI Hackathon Poster" />
 
-# Prompting tips
+## Step 0 - Collaboration and Folder
 
-The following are prompting tips. You can prompt however you want but this approach generated stunning results. You can see examples at the Computational Art Lab IG [https://www.instagram.com/artlabneu/](https://www.instagram.com/artlabneu/) and the Skunks.ai IG [https://www.instagram.com/skunks.ai/](https://www.instagram.com/skunks.ai/).  
+Please have a team member add GitHub ID as a collaborator to this repository.  You will create a subfolder for your team.  The judges will be instructed to incorporate how well your repository is organized and commented in their final scores.
 
-## Step 0 - Clearly state your objective
-Please add your GitHub ID as a collaborator to this repository.
+## Step 1 - The Anatomy of Prompts
 
-## Step 1 - Topic Selection
-The goal is to conduct useful research on creating prompts for specific kinds of images.
+The goal is not just to generate useful visualizations and designs, but to generate code and rules that can generate many designs for a particular purpose.  . You can prompt however you want but this approach generated stunning results. You can see examples at the Computational Art Lab IG [https://www.instagram.com/artlabneu/](https://www.instagram.com/artlabneu/) and the Skunks.ai IG [https://www.instagram.com/skunks.ai/](https://www.instagram.com/skunks.ai/).  
+
 
 Think of a prompt as a sequence of tags and categorize all the tags into four meta-categories:
 
