@@ -1,6 +1,8 @@
 # Generative AI Hackathon  
 Generative AI Hackathon
 
+The training sessions are open to all, but the competition is restricted to Northeastern College of Engineering MGEN teams.
+
 
 <img src="https://raw.githubusercontent.com/aiskunks/Generative_AI_Hackathon/main/Art/GAI_Poster.png" alt="Generative AI Hackathon Poster" />
 
