@@ -55,16 +55,15 @@ Using prompt-based generative AI to create images opens up exciting possibilitie
 
 The focus should be think of what types of concept sketching might be useful of the companies judging the hackathon: Microsoft, Phillips, Amazon, Vui.com, Gaia AI, and Squark AI.
 
-    Concept Sketching: Designers can use natural language prompts to describe their visual ideas or concepts. The generative AI can then transform these textual descriptions into rough sketches or outlines, helping designers quickly visualize their thoughts on paper without the need for advanced drawing skills. This accelerates the concept generation process and allows for rapid iterations.
+* Concept Sketching: Designers can use natural language prompts to describe their visual ideas or concepts. The generative AI can then transform these textual descriptions into rough sketches or outlines, helping designers quickly visualize their thoughts on paper without the need for advanced drawing skills. This accelerates the concept generation process and allows for rapid iterations.   
 
-    Branding, Poster and Logo Design: Designers can utilize generative AI to assist in logo creation or branding elements. They can describe their brand's personality, values, and target audience through prompts, and the AI can generate logos or visual brand assets that align with the specified characteristics. This can help in brand identity exploration and save time during the design process.
+* Branding, Poster and Logo Design: Designers can utilize generative AI to assist in logo creation or branding elements. They can describe their brand's personality, values, and target audience through prompts, and the AI can generate logos or visual brand assets that align with the specified characteristics. This can help in brand identity exploration and save time during the design process.    
 
-    Storytelling and Visualization: Prompt-based generative models can be used to generate illustrations or visual elements for storytelling purposes. Authors, game developers, or filmmakers can provide descriptive prompts for scenes or characters, and the AI can produce corresponding images to enhance the narrative.
+* Storytelling and Visualization: Prompt-based generative models can be used to generate illustrations or visual elements for storytelling purposes. Authors, game developers, or filmmakers can provide descriptive prompts for scenes or characters, and the AI can produce corresponding images to enhance the narrative.
 
-    Product Prototyping and Visualization: Designers can leverage generative AI to create visualizations of product prototypes without having to go through the entire design process. By describing product features and design elements, the AI can produce images of potential product variations, aiding in decision-making and communication with stakeholders.
+* Product Prototyping and Visualization: Designers can leverage generative AI to create visualizations of product prototypes without having to go through the entire design process. By describing product features and design elements, the AI can produce images of potential product variations, aiding in decision-making and communication with stakeholders.     
 
-    Data Visualization and Infographics: By providing data and information in text form, designers can utilize generative AI to create custom data visualizations or infographics. This can enhance the presentation of complex data and make it more accessible to a broader audience.
-
+* Data Visualization and Infographics: By providing data and information in text form, designers can utilize generative AI to create custom data visualizations or infographics. This can enhance the presentation of complex data and make it more accessible to a broader audience.     
 
 
 _Hackathon Judging Criteria_   
@@ -97,7 +96,6 @@ Design: A well-designed object, system, or solution typically possesses the foll
 
 - Contextual Fit: A design is well-suited when it aligns with the specific context in which it will be used. Understanding the user's environment and needs helps create a design that feels natural and fits seamlessly into their lives.  
 
- 
 
 By considering these criteria, judges will ensure a comprehensive evaluation of the projects ranking each for the above on a scale of 1 to 5, assessing not just the technical capabilities of the participants but also their creativity, strategic thinking, and presentation skills.
 
