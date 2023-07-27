@@ -51,20 +51,21 @@ Your personal health assistant. SmartHealth is capable of helping users quickly 
 
 If you don't have a lot of experience with generative AI it is recommended that you use prompt-based generative AI to create images for visual design. We created a special tutorial for visual design [https://github.com/aiskunks/Generative_AI_Hackathon/tree/main/Visual_Design](https://github.com/aiskunks/Generative_AI_Hackathon/tree/main/Visual_Design) as we beleive that this project can be done by people with no programming experience.   
 
-Using prompt-based generative AI to create images opens up exciting possibilities for visual design. Prompt-based generative models, like GPT-3, DALL-E, Leanardo.ai or Midjounrey can be used to generate images based on textual descriptions or commands, allowing designers to ideate and explore various visual concepts in a creative and interactive manner.
+Using prompt-based generative AI for visual design opens up exciting possibilities for designers with little or no programming experience. There are several powerful generative models, such as GPT-3, DALL-E, Leanardo.ai, or Midjounrey, that can generate images based on textual descriptions or commands, enabling designers to explore various visual concepts creatively and interactively.   
 
-The focus should be think of what types of concept sketching might be useful of the companies judging the hackathon: Microsoft, Phillips, Amazon, Vui.com, Gaia AI, and Squark AI.
+For the hackathon, we recommend focusing on concept sketching that would be valuable to companies like Microsoft, Phillips, Amazon, Vui.com, Gaia AI, and Squark AI. Here are some areas where prompt-based generative AI can be utilized:    
 
-* Concept Sketching: Designers can use natural language prompts to describe their visual ideas or concepts. The generative AI can then transform these textual descriptions into rough sketches or outlines, helping designers quickly visualize their thoughts on paper without the need for advanced drawing skills. This accelerates the concept generation process and allows for rapid iterations.   
+* Concept Sketching: Designers can use natural language prompts to describe their visual ideas or concepts. The AI can transform these descriptions into rough sketches or outlines, allowing designers to quickly visualize their thoughts without the need for advanced drawing skills. This speeds up concept generation and facilitates rapid iterations.    
 
-* Branding, Poster and Logo Design: Designers can utilize generative AI to assist in logo creation or branding elements. They can describe their brand's personality, values, and target audience through prompts, and the AI can generate logos or visual brand assets that align with the specified characteristics. This can help in brand identity exploration and save time during the design process.    
+* Branding, Poster, and Logo Design: Generative AI can assist in logo creation and branding elements. By describing brand personality, values, and target audience, the AI can generate logos or visual assets that align with the specified characteristics. This streamlines brand identity exploration and saves time during the design process.   
 
-* Storytelling and Visualization: Prompt-based generative models can be used to generate illustrations or visual elements for storytelling purposes. Authors, game developers, or filmmakers can provide descriptive prompts for scenes or characters, and the AI can produce corresponding images to enhance the narrative.
+* Storytelling and Visualization: Generative models can create illustrations or visual elements for storytelling purposes. Authors, game developers, or filmmakers can provide prompts for scenes or characters, and the AI can produce corresponding images to enhance the narrative.  Creating concept art for a game or advertising that the company might use is very doable.  
 
-* Product Prototyping and Visualization: Designers can leverage generative AI to create visualizations of product prototypes without having to go through the entire design process. By describing product features and design elements, the AI can produce images of potential product variations, aiding in decision-making and communication with stakeholders.     
+* Product Prototyping and Visualization: Designers can leverage generative AI to visualize product prototypes efficiently. Describing product features and design elements in text form allows the AI to generate images of potential product variations, aiding decision-making and communication with stakeholders.   
 
-* Data Visualization and Infographics: By providing data and information in text form, designers can utilize generative AI to create custom data visualizations or infographics. This can enhance the presentation of complex data and make it more accessible to a broader audience.     
+* Data Visualization and Infographics: Generative AI can be used to create custom data visualizations or infographics. By providing data and information through prompts, designers can enhance the presentation of complex data, making it more accessible to a broader audience.
 
+By utilizing prompt-based generative AI, designers can explore their creativity, generate visual concepts rapidly, and enhance their design process. This innovative approach can be especially valuable in industries where visual storytelling and communication play a significant role, such as technology, healthcare, and marketing. Moreover, designers can use these AI-generated visuals as a starting point for inspiration and then add their personal touch to create truly unique and impactful designs.    
 
 _Hackathon Judging Criteria_   
 
