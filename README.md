@@ -1,7 +1,7 @@
 # Generative AI Hackathon  
 Generative AI Hackathon
 
-The training sessions are open to all, but the competition is restricted to Northeastern College of Engineering MGEN teams.
+The learning sessions are open to all, but the competition is restricted to Northeastern College of Engineering MGEN teams.
 
 GAI Hackathon Slack Invite [https://join.slack.com/t/neuaiskunkworks/shared_invite/zt-9h3ckfg2-YR2h6xsTURhLKKRlQpxSzQ](https://join.slack.com/t/neuaiskunkworks/shared_invite/zt-9h3ckfg2-YR2h6xsTURhLKKRlQpxSzQ)
 
